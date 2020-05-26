@@ -7,4 +7,4 @@ class Mycog(commands.Cog):
     async def mycom(self, ctx):
         """This does stuff!"""
         # Your code will go here
-        await ctx.send("Welllllll! It worked finally:p!")
+        await ctx.send("Quick test")
